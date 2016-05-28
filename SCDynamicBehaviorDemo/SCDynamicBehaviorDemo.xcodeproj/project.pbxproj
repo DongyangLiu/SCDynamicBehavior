@@ -12,10 +12,10 @@
 		2F3F800D1CF94BB900ECA1DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F3F800B1CF94BB900ECA1DE /* Main.storyboard */; };
 		2F3F800F1CF94BB900ECA1DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F3F800E1CF94BB900ECA1DE /* Assets.xcassets */; };
 		2F3F80121CF94BB900ECA1DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F3F80101CF94BB900ECA1DE /* LaunchScreen.storyboard */; };
-		2F3F80211CF94C0D00ECA1DE /* Keyword_emoji.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2F3F801A1CF94C0D00ECA1DE /* Keyword_emoji.plist */; };
-		2F3F80221CF94C0D00ECA1DE /* SCDynamicBehaviorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F3F801C1CF94C0D00ECA1DE /* SCDynamicBehaviorManager.m */; };
-		2F3F80231CF94C0D00ECA1DE /* SCDynamicBehaviorModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F3F801E1CF94C0D00ECA1DE /* SCDynamicBehaviorModel.m */; };
-		2F3F80241CF94C0D00ECA1DE /* SCDynamicBehaviorViewControllerDemo.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F3F80201CF94C0D00ECA1DE /* SCDynamicBehaviorViewControllerDemo.m */; };
+		2F3F802D1CF9573900ECA1DE /* Keyword_emoji.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2F3F80261CF9573900ECA1DE /* Keyword_emoji.plist */; };
+		2F3F802E1CF9573900ECA1DE /* SCDynamicBehaviorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F3F80281CF9573900ECA1DE /* SCDynamicBehaviorManager.m */; };
+		2F3F802F1CF9573900ECA1DE /* SCDynamicBehaviorModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F3F802A1CF9573900ECA1DE /* SCDynamicBehaviorModel.m */; };
+		2F3F80301CF9573900ECA1DE /* SCDynamicBehaviorViewControllerDemo.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F3F802C1CF9573900ECA1DE /* SCDynamicBehaviorViewControllerDemo.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,13 +27,13 @@
 		2F3F800E1CF94BB900ECA1DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F3F80111CF94BB900ECA1DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2F3F80131CF94BB900ECA1DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2F3F801A1CF94C0D00ECA1DE /* Keyword_emoji.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Keyword_emoji.plist; sourceTree = "<group>"; };
-		2F3F801B1CF94C0D00ECA1DE /* SCDynamicBehaviorManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCDynamicBehaviorManager.h; sourceTree = "<group>"; };
-		2F3F801C1CF94C0D00ECA1DE /* SCDynamicBehaviorManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCDynamicBehaviorManager.m; sourceTree = "<group>"; };
-		2F3F801D1CF94C0D00ECA1DE /* SCDynamicBehaviorModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCDynamicBehaviorModel.h; sourceTree = "<group>"; };
-		2F3F801E1CF94C0D00ECA1DE /* SCDynamicBehaviorModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCDynamicBehaviorModel.m; sourceTree = "<group>"; };
-		2F3F801F1CF94C0D00ECA1DE /* SCDynamicBehaviorViewControllerDemo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCDynamicBehaviorViewControllerDemo.h; sourceTree = "<group>"; };
-		2F3F80201CF94C0D00ECA1DE /* SCDynamicBehaviorViewControllerDemo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCDynamicBehaviorViewControllerDemo.m; sourceTree = "<group>"; };
+		2F3F80261CF9573900ECA1DE /* Keyword_emoji.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Keyword_emoji.plist; sourceTree = "<group>"; };
+		2F3F80271CF9573900ECA1DE /* SCDynamicBehaviorManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCDynamicBehaviorManager.h; sourceTree = "<group>"; };
+		2F3F80281CF9573900ECA1DE /* SCDynamicBehaviorManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCDynamicBehaviorManager.m; sourceTree = "<group>"; };
+		2F3F80291CF9573900ECA1DE /* SCDynamicBehaviorModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCDynamicBehaviorModel.h; sourceTree = "<group>"; };
+		2F3F802A1CF9573900ECA1DE /* SCDynamicBehaviorModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCDynamicBehaviorModel.m; sourceTree = "<group>"; };
+		2F3F802B1CF9573900ECA1DE /* SCDynamicBehaviorViewControllerDemo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SCDynamicBehaviorViewControllerDemo.h; sourceTree = "<group>"; };
+		2F3F802C1CF9573900ECA1DE /* SCDynamicBehaviorViewControllerDemo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SCDynamicBehaviorViewControllerDemo.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +66,7 @@
 		2F3F80011CF94BB900ECA1DE /* SCDynamicBehaviorDemo */ = {
 			isa = PBXGroup;
 			children = (
-				2F3F80191CF94C0D00ECA1DE /* SCDynamicBehavior */,
+				2F3F80251CF9573900ECA1DE /* SCDynamicBehavior */,
 				2F3F80051CF94BB900ECA1DE /* AppDelegate.h */,
 				2F3F80061CF94BB900ECA1DE /* AppDelegate.m */,
 				2F3F800B1CF94BB900ECA1DE /* Main.storyboard */,
@@ -86,19 +86,19 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		2F3F80191CF94C0D00ECA1DE /* SCDynamicBehavior */ = {
+		2F3F80251CF9573900ECA1DE /* SCDynamicBehavior */ = {
 			isa = PBXGroup;
 			children = (
-				2F3F801A1CF94C0D00ECA1DE /* Keyword_emoji.plist */,
-				2F3F801B1CF94C0D00ECA1DE /* SCDynamicBehaviorManager.h */,
-				2F3F801C1CF94C0D00ECA1DE /* SCDynamicBehaviorManager.m */,
-				2F3F801D1CF94C0D00ECA1DE /* SCDynamicBehaviorModel.h */,
-				2F3F801E1CF94C0D00ECA1DE /* SCDynamicBehaviorModel.m */,
-				2F3F801F1CF94C0D00ECA1DE /* SCDynamicBehaviorViewControllerDemo.h */,
-				2F3F80201CF94C0D00ECA1DE /* SCDynamicBehaviorViewControllerDemo.m */,
+				2F3F80261CF9573900ECA1DE /* Keyword_emoji.plist */,
+				2F3F80271CF9573900ECA1DE /* SCDynamicBehaviorManager.h */,
+				2F3F80281CF9573900ECA1DE /* SCDynamicBehaviorManager.m */,
+				2F3F80291CF9573900ECA1DE /* SCDynamicBehaviorModel.h */,
+				2F3F802A1CF9573900ECA1DE /* SCDynamicBehaviorModel.m */,
+				2F3F802B1CF9573900ECA1DE /* SCDynamicBehaviorViewControllerDemo.h */,
+				2F3F802C1CF9573900ECA1DE /* SCDynamicBehaviorViewControllerDemo.m */,
 			);
 			path = SCDynamicBehavior;
-			sourceTree = SOURCE_ROOT;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
@@ -158,7 +158,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F3F80121CF94BB900ECA1DE /* LaunchScreen.storyboard in Resources */,
-				2F3F80211CF94C0D00ECA1DE /* Keyword_emoji.plist in Resources */,
+				2F3F802D1CF9573900ECA1DE /* Keyword_emoji.plist in Resources */,
 				2F3F800F1CF94BB900ECA1DE /* Assets.xcassets in Resources */,
 				2F3F800D1CF94BB900ECA1DE /* Main.storyboard in Resources */,
 			);
@@ -171,11 +171,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F3F80221CF94C0D00ECA1DE /* SCDynamicBehaviorManager.m in Sources */,
+				2F3F802E1CF9573900ECA1DE /* SCDynamicBehaviorManager.m in Sources */,
 				2F3F80071CF94BB900ECA1DE /* AppDelegate.m in Sources */,
 				2F3F80041CF94BB900ECA1DE /* main.m in Sources */,
-				2F3F80241CF94C0D00ECA1DE /* SCDynamicBehaviorViewControllerDemo.m in Sources */,
-				2F3F80231CF94C0D00ECA1DE /* SCDynamicBehaviorModel.m in Sources */,
+				2F3F80301CF9573900ECA1DE /* SCDynamicBehaviorViewControllerDemo.m in Sources */,
+				2F3F802F1CF9573900ECA1DE /* SCDynamicBehaviorModel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -324,6 +324,7 @@
 				2F3F80181CF94BB900ECA1DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
