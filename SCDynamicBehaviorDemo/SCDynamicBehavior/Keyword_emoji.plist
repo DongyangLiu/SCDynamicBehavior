@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>生日快乐</key>
+	<string>🎁</string>
+	<key>恭喜发财</key>
+	<string>💰</string>
+	<key>我想你了</key>
+	<string>💕</string>
+	<key>想你了</key>
+	<string>💕</string>
+	<key>i miss you</key>
+	<string>💕</string>
+	<key>i miss u</key>
+	<string>💕</string>
+	<key>miss you</key>
+	<string>💕</string>
+	<key>miss u</key>
+	<string>💕</string>
+	<key>我爱你</key>
+	<string>❤️</string>
+	<key>么么哒</key>
+	<string>😘</string>
+	<key>嫁给我</key>
+	<string>💍</string>
+	<key>年年有余</key>
+	<string>💵</string>
+	<key>花开富贵</key>
+	<string>🌺</string>
+	<key>药不能停</key>
+	<string>💊</string>
+	<key>恭喜</key>
+	<string>🎉</string>
+</dict>
+</plist>
